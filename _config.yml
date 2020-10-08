@@ -4,8 +4,8 @@
 
 # Site
 title: Harish Garg
-subtitle: ''
-description: ''
+subtitle: 'Harish Gargs Online journal'
+description: 'Hello. I am Harish Garg. I write computer code & build profitable Micro businesses online.'
 keywords:
 author: Harish Garg
 language: en
@@ -99,7 +99,9 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
+# cactus
 theme: cactus
+
 theme_config:
   colorscheme: classic
 

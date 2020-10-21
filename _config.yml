@@ -4,8 +4,8 @@
 
 # Site
 title: Harish Garg
-subtitle: 'Harish Gargs Online journal'
-description: 'Hello. I am Harish Garg. I write computer code & build profitable Micro businesses online.'
+subtitle: 'One stop place to find what Harish Garg is working on'
+description: 'Hello. I am Harish Garg. I make digital products using all kinds of tools, ranging from both code and no-code tools. I also write about building profitable Micro businesses online.'
 keywords:
 author: Harish Garg
 language: en
@@ -13,9 +13,9 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://harishgarg.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: writing/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks

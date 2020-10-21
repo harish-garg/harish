@@ -1,6 +1,6 @@
 ---
 title: What No Code tool is best for what <user> wants to build?
-date: 2020-10-08 10:51:20
+date: 
 tags:
 ---
 There are a lot of people who want to build MVPs and startups but don't know-how. 

@@ -1,7 +1,27 @@
 [
     {
+        "name":"Maker Playbook Newsletter",
+        "url":"https://harishgarg.com/makerplaybook/",
+        "desc":"Curated Playbooks to help launch digital products as a solo entrepreneur."
+    },
+    {
+        "name":"Maker Guide",
+        "url":"https://makerguide.harishgarg.com/",
+        "desc":"Ideas, tools, execution playbooks, and real-life examples for makers."
+    },
+    {
        "name":"SiteStatusHQ",
        "url":"https://sitestatushq.com/",
        "desc":"Simple & Privacy focused site monitoring."
+    },
+    {
+        "name":"Android Apps",
+        "url":"#",
+        "desc":"Various Android Apps published under the banner of BignumWorks."
+    },
+    {
+        "name":"McAfee Security for Mac",
+        "url":"https://mcafee.com/",
+        "desc":""
     }
 ]

@@ -13,4 +13,4 @@ Subscribe to receive new reports as they get released.
 
 or read past issues first.
 
-* 0001 - [Maker Playbook - eBooks](http://localhost:4000/writing/maker-playbook-ebooks/)
+* 0001 - [Maker Playbook - eBooks](/writing/maker-playbook-ebooks/)

@@ -13,15 +13,5 @@
        "name":"SiteStatusHQ",
        "url":"https://sitestatushq.com/",
        "desc":"Simple & Privacy focused site monitoring."
-    },
-    {
-        "name":"Android Apps",
-        "url":"#",
-        "desc":"Various Android Apps published under the banner of BignumWorks."
-    },
-    {
-        "name":"McAfee Security for Mac",
-        "url":"https://mcafee.com/",
-        "desc":""
     }
 ]

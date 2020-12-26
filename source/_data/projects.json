@@ -1,5 +1,20 @@
 [
     {
+        "name":"Myna.one",
+        "url":"https://myna.one/",
+        "desc":"Twitter Analytics, Simplified"
+     },
+     {
+        "name":"Hacker News Front Page Explorer",
+        "url":"https://gum.co/JJzQp",
+        "desc":"An Airtable database of Ranked Hacker News Front Page posts"
+     },
+     {
+        "name":"Run Custom Analysis on your Twitter Data",
+        "url":"https://gum.co/rNSrK",
+        "desc":"Gain valuable insights from running Custom Data Analysis on your Twitter data on your own."
+     },
+    {
         "name":"Maker Playbook Newsletter",
         "url":"https://harishgarg.com/makerplaybook/",
         "desc":"Curated Playbooks to help launch digital products as a solo entrepreneur."
@@ -8,10 +23,6 @@
         "name":"Maker Guide",
         "url":"https://makerguide.harishgarg.com/",
         "desc":"Ideas, tools, execution playbooks, and real-life examples for makers."
-    },
-    {
-       "name":"SiteStatusHQ",
-       "url":"https://sitestatushq.com/",
-       "desc":"Simple & Privacy focused site monitoring."
     }
 ]
+

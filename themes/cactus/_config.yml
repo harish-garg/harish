@@ -15,7 +15,6 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  Maker Playbook: /makerplaybook/
   articles: /archives/
   projects: /projects/
 

@@ -4,6 +4,7 @@ date:
 tags:
 categories: Resources
 ---
+![My Twitter Stats: Aug 2020 vs Dec 2020](/images/my-twitter-growth.png)
 ## TLDR
 This is a live list of Social Media resources that I have found useful for myself. I will be updating it as and when I find something useful. Note that it is biased towards helping Creators and Entrepreneurs who want to find success online, espcially towards building their own businesses.
 

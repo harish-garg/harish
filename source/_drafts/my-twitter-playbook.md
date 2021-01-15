@@ -1,7 +1,8 @@
----
 title: My Personal Twitter Manifest
-tags:
-categories: "Twitter"
+tags: []
+categories:
+  - Twitter
+date: 2021-01-11 11:34:00
 ---
 ## Rules I go by when I am on Twitter (as of today*)
 

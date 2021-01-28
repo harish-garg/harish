@@ -16,7 +16,7 @@ The possibilities of building new products or integrating OpenAI into existing p
 
 I am writing a guide to help Product Builders go from Zero to Hero in building products with OpenAI APIs. 
 
-I will be writing this guide in public (thanks to my friend [Kevon Cheung](https://kevoncheung.com/building-in-public) for the inspiration).
+I will be writing this guide in public
 
 This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can [Pre-Order it here](https://gum.co/gpt-3-guide)
 

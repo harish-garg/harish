@@ -3,6 +3,8 @@ author: Harish Garg
 date: 2021-01-28 12:05:19
 tags:
 ---
+![Book Cover](/images/openai-guide-book-cover.png)
+
 ## About the Guide
 
 The age of commercial AI, available as a cloud API is here. One can call an AI API, like any other Cloud service, and build products around it. 

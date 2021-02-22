@@ -50,24 +50,24 @@ Or you can [Buy Me a Coffee](https://www.buymeacoffee.com/harishgarg).
 ## Table of Contents
 *Chapters with links enabled are available to read.*
 
-* Chapter 1 - What is OpenAI and GPT-3?
-* Chapter 2 - How do you get access to GPT-3?
-* Chapter 4 - Interviews with Founders building with OpenAI
+* What is OpenAI and GPT-3?
+* How do you get access to GPT-3?
+* Interviews with Founders building with OpenAI
 	* [Oras Al-Kubaisi, creator of Job Description AI](https://harishgarg.com/writing/OpenAI-GPT-3-Guide-Founder-Interview-Oras-Al-Kubaisi/)
-* Chapter 5 - Examples of Real-world profitable projects built using OpenAI GPT-3?
-* Chapter 6 - Real World Fun Projects
-* Chapter 7 - What are the best ways to use GPT-3?
-* Chapter 8 - What are the ways not to use GPT-3?
-* Chapter 9 - What is possible right now
-* Chapter 10 - Steal these Ideas.
-* Chapter 11 - Potential Use cases
-* Chapter 12 - Beware of the cost
-* Chapter 13 - Platform Risk of building with OpenAI 
-* Chapter 14 - Beyond OpenAI
-* Chapter 15 - Responsible use of AI
-* Chapter 16 - Notable People to watch & follow
-* Chapter 17 - Resources	
-* Chapter 18 - Glossary
+* Examples of Real-world profitable projects built using OpenAI GPT-3?
+* Real World Fun Projects
+* What are the best ways to use GPT-3?
+* What are the ways not to use GPT-3?
+* What is possible right now
+* Steal these Ideas.
+* Potential Use cases
+* Beware of the cost
+* Platform Risk of building with OpenAI 
+* Beyond OpenAI
+* Responsible use of AI
+* Notable People to watch & follow
+* Resources	
+* Glossary
 
 ## Feedback
 

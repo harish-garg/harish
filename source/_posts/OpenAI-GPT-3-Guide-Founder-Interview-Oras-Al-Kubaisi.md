@@ -55,7 +55,7 @@ They should, and my advice is: Just start! The playground is easy to work with a
 
 ## Is building an AI-enabled product any different than building without AI? What are the pitfalls to avoid while building with OpenAI?
 Few things:
-* The latency! We are used to faster products by now and having to wait several minutes to get a response is not something the user is comfortable with. Add to that handling errors from the OpenAI side and monitoring the service is responding.
+* The latency! We are used to faster products by now and having to wait several seconds to get a response is not something the user is comfortable with. Add to that handling errors from the OpenAI side and monitoring the service is responding.
 * The cost. You are going to pay per request and depending on which engine you go for and the prompt length, this could become costly in no time.
 
 ## What kind of learning resources(books, podcasts, etc) you would recommend to the founders looking to build AI-enabled products?

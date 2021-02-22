@@ -33,6 +33,7 @@ If you want to be notified when an update is posted, follow me on [Twitter](http
 A special thank you to below people for helping review early drafts and providing valuable feedback. It would not have been possible without your support and encouragement.
 * [Ajeeth](https://twitter.com/ajeethrs)
 * [Antonio](https://twitter.com/antonniotr)
+* [Carl](https://twitter.com/poppacalypse)
 * [Leo](https://twitter.com/itsLeo_m)
 * [Marco](https://twitter.com/MarcoSpoerl)
 * [Matthias](https://twitter.com/GetTheAudience)
@@ -43,6 +44,8 @@ A special thank you to below people for helping review early drafts and providin
 
 This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can [Pre-Order it here](https://gum.co/gpt-3-guide)
 
+Or you can [Buy Me a Coffee](https://www.buymeacoffee.com/harishgarg).
+
 
 ## Table of Contents
 *Chapters with links enabled are available to read.*
@@ -50,6 +53,7 @@ This guide is also available in formats suitable for Book Reading Apps and Devic
 * Chapter 1 - What is OpenAI and GPT-3?
 * Chapter 2 - How do you get access to GPT-3?
 * Chapter 4 - Interviews with Founders building with OpenAI
+	* [Oras Al-Kubaisi, creator of Job Description AI](https://harishgarg.com/writing/OpenAI-GPT-3-Guide-Founder-Interview-Oras-Al-Kubaisi/)
 * Chapter 5 - Examples of Real-world profitable projects built using OpenAI GPT-3?
 * Chapter 6 - Real World Fun Projects
 * Chapter 7 - What are the best ways to use GPT-3?

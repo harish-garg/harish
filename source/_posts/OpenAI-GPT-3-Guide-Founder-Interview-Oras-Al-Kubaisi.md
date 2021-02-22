@@ -3,6 +3,8 @@ author: Harish Garg
 date: 2021-02-22 11:12:41
 tags:
 ---
+![Founder Interview - Oras Al-Kubaisi](/images/openai-guide-founder-interview-oras.png)
+
 This article is part of the [OpenAI GPT-3 Guide](https://harishgarg.com/writing/definite-guide-to-building-products-with-openai/). As part of writing this guide, I am interviewing Founders who have built/building products using OpenAI GPT-3 API. 
 
 For this one, I interviewed, [Oras Al-Kubaisi](https://twitter.com/orask), Creator and Founder of [Job Description ai](https://www.jobdescription.ai/). 

@@ -51,7 +51,7 @@ Or you can [Buy Me a Coffee](https://www.buymeacoffee.com/harishgarg).
 *Chapters with links enabled are available to read.*
 
 * What is OpenAI and GPT-3?
-* How do you get access to GPT-3?
+* [How to get access to GPT-3?](https://harishgarg.com/writing/how-do-you-get-access-to-openai-gpt-3/)
 * Interviews with Founders building with OpenAI
 	* [Oras Al-Kubaisi, creator of Job Description AI](https://harishgarg.com/writing/OpenAI-GPT-3-Guide-Founder-Interview-Oras-Al-Kubaisi/)
 * Examples of Real-world profitable projects built using OpenAI GPT-3?

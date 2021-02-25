@@ -49,9 +49,10 @@ A special thank you to below people for helping review early drafts and providin
 
 ## Support the work
 
-This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can Pre-Order it on [Gumroad](https://gum.co/gpt-3-guide) or [Learnetto](https://learnetto.com/users/harishgarg/courses/definite-guide-to-building-products-with-openai/)
-
-Or you can [Buy Me a Coffee](https://www.buymeacoffee.com/harishgarg).
+This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can Pre-Order it from one of these places.
+* [Flurly](https://flurly.com/p/gpt-3-guide)
+* [Gumroad](https://gum.co/gpt-3-guide) 
+* [Learnetto](https://learnetto.com/users/harishgarg/courses/definite-guide-to-building-products-with-openai/)
 
 
 ## Table of Contents

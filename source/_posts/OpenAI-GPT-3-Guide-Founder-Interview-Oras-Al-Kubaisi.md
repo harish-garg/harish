@@ -74,4 +74,7 @@ You can also follow Oras on Twitter [here](https://twitter.com/orask)
 
 I am writing this guide in public and making it available for [reading online](https://harishgarg.com/writing/definite-guide-to-building-products-with-openai/). 
 
-This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can [Pre-Order it here](https://gum.co/gpt-3-guide) or you can [Buy Me a Coffee](https://www.buymeacoffee.com/harishgarg)
+This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can Pre-Order it from one of these places.
+* [Flurly](https://flurly.com/p/gpt-3-guide)
+* [Gumroad](https://gum.co/gpt-3-guide) 
+* [Learnetto](https://learnetto.com/users/harishgarg/courses/definite-guide-to-building-products-with-openai/)

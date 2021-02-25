@@ -11,15 +11,22 @@ The age of commercial AI, available as a cloud API is here. One can call an AI A
 
 One of the biggest players in this space is OpenAI. Founders are already starting & building profitable companies, built around products enabled by OpenAI APIs. For Example:
 
-**Copy.AI Crosses $30K MRR in 3 months**
+**Copy.AI**
 {% twitter https://twitter.com/PaulYacoubian/status/1350128544995831809 %}
 
-**HeadLime Crosses $6K MRR**
-{% twitter https://twitter.com/dannypostmaa/status/1347309393876983808 %}
+**HeadLime**
+![HeadLime](/images/openai-headlime-revenue.png)
 
-The possibilities of building new products or integrating OpenAI into existing products is limitless.
+The possibilities of building new products or integrating OpenAI into existing products is limitless. And this goes beyond for profit products. 
 
-I am writing this guide to help Product Builders go from Zero to Hero in building products with OpenAI APIs. 
+** GPT-3 Written thought Experiments**
+![Thought Experiments](/images/openai-demo-thought.png)
+
+You can integrate OpenAI API with your existing products.
+
+![Replit](/images/openai-replit.png)
+
+I am writing this guide to help Founders, Developers, Product Managers understand what it takes to build products with OpenAI APIs. 
 
 
 ## Writing in Public
@@ -42,7 +49,7 @@ A special thank you to below people for helping review early drafts and providin
 
 ## Support the work
 
-This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can [Pre-Order it here](https://gum.co/gpt-3-guide)
+This guide is also available in formats suitable for Book Reading Apps and Devices(PDF, ePub, Kindle). If you like and want to support this work, you can Pre-Order it on [Gumroad](https://gum.co/gpt-3-guide) or [Learnetto](https://learnetto.com/users/harishgarg/courses/definite-guide-to-building-products-with-openai/)
 
 Or you can [Buy Me a Coffee](https://www.buymeacoffee.com/harishgarg).
 

@@ -45,9 +45,9 @@ So one day after brainstorming, I came up with the idea of somehow merging what 
 
 I shared some of the notes from my journal in tweets on the process of coming up with the idea for the product.
 
-[https://twitter.com/stepocampbell_/status/1361497363496460289](https://twitter.com/stepocampbell_/status/1361497363496460289)
+{% twitter https://twitter.com/stepocampbell_/status/1361497363496460289 %}
 
-[https://twitter.com/stepocampbell_/status/1361498905377128449](https://twitter.com/stepocampbell_/status/1361498905377128449)
+{% twitter https://twitter.com/stepocampbell_/status/1361498905377128449 %}
 
 **Why did you decide to build with OpenAI API? Have you had other exposure to AI tech in the past?**
 
@@ -66,8 +66,6 @@ VirtualGhostWriter.com is stable right now. After launching it on Product Hunt, 
 The live stats can be found here: [https://BuildingInPublic.io](https://BuildingInPublic.io)
 
 The cumulative stats to date since launch are as follows:
-
-
 
 *   Sign-Ups: 3382
 *   Paid Users: 159
@@ -106,15 +104,11 @@ I didnâ€™t have much cash when I started with no-code and I applied for Bubbleâ€
 
 **What kind of Tech Stack you would recommend for building AI-enabled products?**
 
-Bubble.io
-
-Stripe.com
-
-Paypal.com
-
-OpenAI.com
-
-Converkit.com
+* Bubble.io
+* Stripe.com
+* Paypal.com
+* OpenAI.com
+* Converkit.com
 
 **What kind of learning resources (books, podcasts, etc) you would recommend to the founders looking to build AI-enabled products?**
 
@@ -124,12 +118,9 @@ Converkit.com
 2. [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 3. [https://www.youtube.com/user/googlecloudplatform](https://www.youtube.com/user/googlecloudplatform)
 
-Where can we go to learn more about you and your product?
+**Where can we go to learn more about you and your product?**
 
-Twitter: @stepocampbell_
-
-LinkedIn: [https://www.linkedin.com/in/stepocampbell/](https://www.linkedin.com/in/stepocampbell/)
-
-Personal Website: [stepocampbell.com](https://stepocampbell.com/)
-
-Product: [VirtualGhostWriter.com](https://virtualghostwriter.com/)
+* Twitter: [@stepocampbell_](https://twitter.com/stepocampbell_)
+* LinkedIn: [https://www.linkedin.com/in/stepocampbell/](https://www.linkedin.com/in/stepocampbell/)
+* Personal Website: [stepocampbell.com](https://stepocampbell.com/)
+* Product: [VirtualGhostWriter.com](https://virtualghostwriter.com/)

@@ -63,7 +63,7 @@ I had no exposure to AI tech in the past outside of trying to learn python and f
 
 VirtualGhostWriter.com is stable right now. After launching it on Product Hunt, there was a huge spike in sign-ups, subscriptions, and usage but now it has more or less stabilized and is getting regular weekly sign-ups and subscriptions.
 
-The live stats can be found here: [https://BuildingInPublic.io](https://BuildingInPublic.io)
+The live stats can be found here: [http://BuildingInPublic.io](http://BuildingInPublic.io)
 
 The cumulative stats to date since launch are as follows:
 

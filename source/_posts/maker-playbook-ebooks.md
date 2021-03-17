@@ -1,8 +1,7 @@
----
 title: Maker PlayBook - eBooks
-date: 
+categories: Maker Playbook
+date: NaN-NaN-NaN NaN:NaN:NaN
 tags:
-categories: "Maker Playbook"
 ---
 ![Maker Playbook - eBooks](https://media.giphy.com/media/9X6OGGZ2SNyQ8/giphy.gif)
 ### 🤔 TLDR
@@ -20,7 +19,7 @@ Find a niche audience, create short-form, niche, practical eBooks using your exi
 
 ###  ✍ Who
 * [Alex Llull](https://mobile.twitter.com/AlexLlullTW) wrote [The Twitter Thief](https://gumroad.com/l/gpGyL)
-* [Arvid Kahl](https://mobile.twitter.com/arvidkahl) wrote [Zero To Sold](https://thebootstrappedfounder.com/zero-to-sold/) & is writing [Audience First](https://audiencefirst.link/)
+* [Arvid Kahl](https://mobile.twitter.com/arvidkahl) wrote [Zero To Sold](https://thebootstrappedfounder.com/zero-to-sold/) & is writing [Audience First](https://embeddedentrepreneur.com/)
 * [Bruno Raljic](https://twitter.com/brunoraljic) with [11 ways to set up your Gumroad product page](https://gumroad.com/l/gdtnI)
 * [Daniel Vassallo](https://mobile.twitter.com/dvassallo) wrote The Good Parts of AWS (https://dvassallo.gumroad.com/#MsVlG) & [Everyone Can Build a Twitter Audience](https://dvassallo.gumroad.com/#PBkrO)
 * [Julia Evans](https://mobile.twitter.com/b0rk) writes & sells [Short form zines on technical topics](https://wizardzines.com/)
@@ -42,6 +41,3 @@ Find a niche audience, create short-form, niche, practical eBooks using your exi
  - [How I Made $30,000 on My First Self-Published Book]((https://medium.com/swlh/how-i-made-30k-on-my-first-self-published-book-2f9073dc33e5)) by Randall Kanna
  - [Tweet Thread](https://twitter.com/swyx/status/1278305371610771456?s=20) on Coding Career HandBook by Shawn
  - [I made $210,822 selling a pdf and a video on the internet](https://www.reddit.com/r/Entrepreneur/comments/iwmzv1/i_made_210822_selling_a_pdf_and_a_video_on_the/) by Daniel Vassallo
- 
- 
- 

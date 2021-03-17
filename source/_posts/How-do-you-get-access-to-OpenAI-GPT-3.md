@@ -30,8 +30,8 @@ I applied for access two times. First time in July 2020. I never got access. I r
 
 While it's OpenAI 's own decision to who and how they give access to their API, there are few things one can do to speed up the approval process. 
 
-* If possible and if you have access to, use an email id that is either your work email or on a domain that you own. For example, yourname@companyname or yourname@yourwebsite is better then something like yourname@gmail.com. There is no official rule against using generic email services. However, in my own experience and after speaking to other people who applied, custom domain email ids have better  
-* Try not to use non-personal email ids like contact@companyname.com, etc. Instead use email ids that have your name in them, like harish@harishgarg.com
+* If possible and if you have access to, use an email id that is either your work email or on a domain that you own. For example, `yourname@companyname` or `yourname@yourwebsite` is better then something like `yourname@gmail.com`. There is no official rule against using generic email services. However, in my own experience and after speaking to other people who applied, custom domain email ids have better chance of early approval.
+* Try not to use non-personal email ids like `contact@companyname.com`, etc. Instead use email ids that have your name in them, like `jane@companyname.com`
 * Use real person names in the Name fields, not company names or generic names.
 * Do mention your interesting idea in the given field. Note that you don't necessarily have to build this exact idea. This particular answer tells them whether you have thought through enough before applying for access. Try coming up with an idea for an app or a project before applying.
 * Choose one of these options.
@@ -48,7 +48,7 @@ Even after doing all this, if your access is taking too much time(> week at this
 The above application process was decribed based on assumption that you are applying to build a product with OpenAI API. However, if your purpose is research, they have a separate application process and available on this link - https://share.hsforms.com/1b-BEAq_qQpKcfFGKwwuhxA4sk30
 
 ## Wrap-up
-I would love to hear from you about your experience with getting access to the OpenAI API via [email](harish@harishgarg.com) or [Twitter DM](https://twitter.com/harishkgarg).
+I would love to hear from you about your experience with getting access to the OpenAI API via [email](mailto:harish@harishgarg.com) or [Twitter DM](https://twitter.com/harishkgarg).
 
 This chapter is part of Definite Guide to building products with OpenAI API that I am writing in public and making it available for [reading online](https://harishgarg.com/writing/definite-guide-to-building-products-with-openai/). 
 

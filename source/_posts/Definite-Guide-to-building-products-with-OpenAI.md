@@ -38,14 +38,19 @@ If you want to be notified when an update is posted, follow me on [Twitter](http
 ## A Note of thanks
 
 A special thank you to below people for helping review early drafts and providing valuable feedback. It would not have been possible without your support and encouragement.
-* [Ajeeth](https://twitter.com/ajeethrs)
-* [Antonio](https://twitter.com/antonniotr)
-* [Carl](https://twitter.com/poppacalypse)
-* [Leo](https://twitter.com/itsLeo_m)
-* [Marco](https://twitter.com/MarcoSpoerl)
-* [Matthias](https://twitter.com/GetTheAudience)
-* [Puneet](https://twitter.com/pkaura)
-* [Stephen](https://twitter.com/stephenweber) 
+**Acknowledgments**
+
+I am thankful to these generous folks for helping out with the review, feedback, and encouragement.
+
+* [Ajeeth Rakkapan ☮️ (@ajeethrs)](https://twitter.com/ajeethrs)
+* [Carl Poppa 🛸 (@poppacalypse)](https://twitter.com/poppacalypse)
+* [Leo M. 🚀 (@itsLeo_m)](https://twitter.com/itsLeo_m)
+* [Marco Spörl (@MarcoSpoerl)](https://twitter.com/MarcoSpoerl)
+* [Matthias from Get The Audience (@GetTheAudience)](https://twitter.com/GetTheAudience)
+* [Oras Al-Kubaisi (@orask)](https://twitter.com/orask)
+* [Puneet Kaura (@pkaura)](https://twitter.com/pkaura)
+* [Stephen Weber (@stephenweber)](https://twitter.com/stephenweber)
+* [Wilson Bright (@wlsnbr)](https://twitter.com/wlsnbr)
 
 ## Support the work
 
@@ -58,10 +63,14 @@ This guide is also available in formats suitable for Book Reading Apps and Devic
 ## Table of Contents
 *Chapters with links enabled are available to read.*
 
-* What is OpenAI and GPT-3?
+* [What is OpenAI and GPT-3?](https://harishgarg.com/writing/What-is-OpenAI-GPT-3/)
+* [What it takes to build a product with OpenAI GPT-3](https://harishgarg.com/writing/)
 * [How to get access to GPT-3?](https://harishgarg.com/writing/how-do-you-get-access-to-openai-gpt-3/)
-* Interviews with Founders building with OpenAI
+* Interviews with Founders building AI products.
 	* [Oras Al-Kubaisi, creator of Job Description AI](https://harishgarg.com/writing/OpenAI-GPT-3-Guide-Founder-Interview-Oras-Al-Kubaisi/)
+    * [Stephen Campbell, Creator of VirtualGhostWriter.com](https://harishgarg.com/writing/openai-gpt-3-guide-founder-interview-stephen-campbell/)
+    * [Bakz T. Future, Youtube Creator](https://harishgarg.com/writing/openai-gpt-3-guide-interview-bakz-t-future/)
+    * Wilson Bright, Co-Founder, BlockSurvey(Coming Soon...)
 * Examples of Real-world profitable projects built using OpenAI GPT-3?
 * Real World Fun Projects
 * What are the best ways to use GPT-3?

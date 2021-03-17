@@ -1,23 +1,19 @@
----
 title: projects
 date: 2020-10-08 10:58:42
 ---
-
 # Projects
 
-## Current - Live
+## Current
 
-- [Hacker News Front Page Explorer(Featured on Product Hunt)](http://explorehackernews.xyz/): An Airtable database of Ranked Hacker News Front Page posts
-- [Run Custom Analysis on your Twitter Data](https://gum.co/rNSrK): Gain valuable insights from running Custom Data Analysis on your Twitter data on your own.
-- [Maker Playbook Newsletter](/makerplaybook/): Curated Playbooks to help launch digital products as a solo entrepreneur.
-
-## Current - Pre-Release
-
-- [SaaS: Myna.one](http://myna.one/): Twitter Analytics, Simplified
-- [Maker Guide](https://makerguide.harishgarg.com): Ideas, tools, execution playbooks, and real-life examples for makers.
+- [B2B SaaS: Myna.one](http://myna.one/)
+- [Book: Definite Guide to Building Products with OpenAI GPT-3](/writing/definite-guide-to-building-products-with-openai/)
+- [Video Course: How to build & launch an OpenAI GPT-3 product?](https://gumroad.com/l/FJSAc)
 
 ## Past Projects & Jobs
-
+- [Hacker News Front Page Explorer(Featured on Product Hunt)](http://explorehackernews.xyz/): An Airtable database of Ranked Hacker News Front Page posts
+- [Maker Guide](https://makerguide.harishgarg.com): Ideas, tools, execution playbooks, and real-life examples for makers.
+- [Maker Playbook Newsletter](/makerplaybook/): Curated Playbooks to help launch digital products as a solo entrepreneur.
+- [Run Custom Analysis on your Twitter Data](https://gum.co/rNSrK): Gain valuable insights from running Custom Data Analysis on your Twitter data on your own.
 - [SiteStatusHQ](https://sitestatushq.com): Simple & Privacy focused site monitoring - No Longer working on it. Domain up for Sale.
 - [Packt published Books & Video Courses](https://www.packtpub.com/in/catalogsearch/result/?q=harish%20garg)
 - Android Apps: Various Android Apps published under the banner of BignumWorks Software LLP.

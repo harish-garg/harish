@@ -64,7 +64,7 @@ This guide is also available in formats suitable for Book Reading Apps and Devic
 *Chapters with links enabled are available to read.*
 
 * [What is OpenAI and GPT-3?](https://harishgarg.com/writing/What-is-OpenAI-GPT-3/)
-* [What it takes to build a product with OpenAI GPT-3](https://harishgarg.com/writing/)
+* [What it takes to build a product with OpenAI GPT-3](https://harishgarg.com/writing/What-it-takes-to-build-a-product-with-OpenAI-GPT-3/)
 * [How to get access to GPT-3?](https://harishgarg.com/writing/how-do-you-get-access-to-openai-gpt-3/)
 * Interviews with Founders building AI products.
 	* [Oras Al-Kubaisi, creator of Job Description AI](https://harishgarg.com/writing/OpenAI-GPT-3-Guide-Founder-Interview-Oras-Al-Kubaisi/)

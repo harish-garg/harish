@@ -1,13 +1,16 @@
 title: What it takes to build a product with OpenAI GPT-3
 author: Harish Garg
+description: >-
+  In this chapter, I talk about what it takes to create a product with OpenAI
+  GPT-3 API.
+cover_image: 'https://mugshotbot.com/m/L5dG3hBH'
 date: 2021-03-17 16:47:00
 tags:
-description: In this chapter, I talk about what it takes to create a product with OpenAI GPT-3 API.
-cover_image: "https://mugshotbot.com/m/L5dG3hBH"
 ---
-## Introduction
+![](/images/what-it-takes-gpt-3-app.jpeg)
+This is a top-level overview of the process of creating and launching a GPT-3 powered product.
 
-In this chapter, I talk about what it takes to create a product with OpenAI GPT-3 API. This is a top-level overview of the process. Most of the topics are discussed at length in further chapters.
+Most of the topics are discussed at length in further chapters in [my book on the topic](https://harishgarg.com/gpt-3/).
 
 
 ## Idea

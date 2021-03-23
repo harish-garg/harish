@@ -126,7 +126,7 @@ rss: true
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
-  image: og:image
+  image: og:image:https://mugshotbot.com/m/6navHrqx
   fb_app_id:
   fb_admins:
   twitter_id: harishkgarg

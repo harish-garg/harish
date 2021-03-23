@@ -4,7 +4,8 @@ tags: []
 categories: []
 date: 2021-03-21 22:13:00
 ---
-![](Build GPT-3 Powered App using NextJS & React)(/images/)
+
+![Build GPT-3 Powered App using NextJS & React](/images/mugshot01.png)
 
 Step by Step, Practical Guide to building a GPT-3 Powered serverless App using NextJS & ReactJS.
 
@@ -20,7 +21,7 @@ If you just want to directly download and run the code, you can get it from [her
 ## Requirements
 **GPT-3 API Key**
 
-In order to build a GPT-3 Powered App, you need to have the API key from OpenAI. For that, you need to apply for access to the API. If you don't have the acces syet, I wrote a guide on [how to get access to OpenAI GPT-3 API](https://harishgarg.com/writing/how-do-you-get-access-to-openai-gpt-3/)
+In order to build a GPT-3 Powered App, you need to have the API key from OpenAI. For that, you need to apply for access to the API. If you don't have the access yet, I wrote a guide on [how to get access to OpenAI GPT-3 API](https://harishgarg.com/writing/how-do-you-get-access-to-openai-gpt-3/)
 
 **NodeJS**
 
@@ -61,15 +62,15 @@ And if you open it in your browser, you should see something like this.
 
 ![NextJS Starter App](/images/nextjs-starter-app.png)
 
-If you run into any issues with this step, checking out [NextJS Docs](https://nextjs.org/docs) will be a good place to start.
+If you run into any issues with this step, check out [NextJS Docs](https://nextjs.org/docs).
 
 ## Add Dependencies
 
 We will install only one more dependecy. It is [openai-api node module](https://www.npmjs.com/package/openai-api). It's a tiny wrapper around GPT-3 API. 
 
-First, stop the app by typing `Ctl+C` and pressing in the command line.
+First, stop the app by typing `Ctl+C` and pressing `enter` in the command line.
 
-To install the the module, run below command from app folder.
+Next, to install the module, run below command from the app folder.
 
 	npm i openai-api
 
@@ -81,9 +82,9 @@ First create a new file called `.env.local` in the project directory and add you
 
 	OPENAI_API_KEY=your-api-key
 
-Make sure `.env.local` to `gitignore` before checking your code into a git repository. You don't want exposing your secret API key to public leading to misuse and getting suspended by OpenAI. 
+Make sure `.env.local` is added to the `gitignore` before checking your code into a git repository. You don't want exposing your secret API key to public leading to misuse and getting suspended by OpenAI. 
 
-Next, we define our API endpoint. Create a file called `openai.js` in `pages/api/` and below code.
+Next, we define our API endpoint. Create a file called `openai.js` in `pages/api/` and add below code to this file.
 
 	const OpenAI = require('openai-api');
 	const openai = new OpenAI(process.env.OPENAI_API_KEY);
@@ -106,8 +107,8 @@ Next, we define our API endpoint. Create a file called `openai.js` in `pages/api
     }
 
 In the above code, we start by importing the openai module
-and getting the API key from the env file. We then define a async function that will take user input as `req` and call the OpenAI GPT-3 API using the Openai module. Inside the call, we are some paramters for GPT-3 API. Check out my GPT-3 Guide for a detailed description of these paramters.
-The inspiration for GPT-3 prompt is from [here](https://www.twilio.com/blog/getting-started-with-openai-s-gpt-3-in-node-js)
+and getting the API key from the env file. We then define a async function that will take user input from the `req` and call the OpenAI GPT-3 API using the Openai module. Inside the call, we are also passing some paramters for the GPT-3 API. Check out my GPT-3 Guide for a detailed description of these paramters.
+The inspiration for this particular GPT-3 prompt is from [here](https://www.twilio.com/blog/getting-started-with-openai-s-gpt-3-in-node-js)
 
 Next, we add the code to trigger this API from the user interface and using the output to display to the user.
 

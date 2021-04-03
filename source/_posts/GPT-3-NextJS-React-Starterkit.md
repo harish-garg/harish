@@ -28,7 +28,7 @@ I also received few consulting requests for help implement the GPT-3 API in thei
 
 That led me to believe there should be a starterkit for building GPT-3 Powered Apps.
 
-Hence,  am building a startkit for GPT-3 Powered Apps. This one uses NextJS/ React / JS.
+Hence,  am building a startkit for GPT-3 Powered Apps. This one uses NextJS/ React / JS. Note: This will not be released as Open Source.
 
 ## What you will get
 - Source Code for an app that covers mutiple use cases for GPT-3 for NextJS/ReactJS Stack
@@ -47,6 +47,6 @@ People who pre-order will also get to suggest features to be included in the sta
 
 **Current Status**
 
-- 0 of 5 ordered @ $49
-- Next Price: $99
+- 2 of 5 ordered @ $49
+- Next Price: $99, after 3 more orders.
 

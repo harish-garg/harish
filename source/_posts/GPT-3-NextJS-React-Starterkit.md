@@ -36,17 +36,5 @@ Hence,  am building a startkit for GPT-3 Powered Apps. This one uses NextJS/ Rea
 - How to Push the App Live to Hosting providers like Vercel.
 
 ## How to Purchase the starterkit?
-I am taking pre-orders, starting now for this starterkit. 
-
-Final Price will be **USD$99**. However, first five people can pre-order it for **USD$49**. 
-
-You can order your copy by making the payment via [paypal](https://paypal.me/gargh) and then emailing me at harish@harishgarg.com. 
-
-People who pre-order will also get to suggest features to be included in the starterkit.
-
-
-**Current Status**
-
-- 2 of 5 ordered @ $49
-- Next Price: $99, after 3 more orders.
+If you are interested, email me at harish@harishgarg.com
 

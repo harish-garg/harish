@@ -5,11 +5,11 @@ date: 2020-10-08 10:58:42
 
 ## Current
 
-- [B2B SaaS: Myna.one](http://myna.one/)
-- [Book: Definite Guide to Building Products with OpenAI GPT-3](/writing/definite-guide-to-building-products-with-openai/)
-- [Video Course: How to build & launch an OpenAI GPT-3 product?](https://gumroad.com/l/FJSAc)
+- [Myna.one: AI Powered Writing Assistant](http://myna.one/) 
+
 
 ## Past Projects & Jobs
+- [Book: Definite Guide to Building Products with OpenAI GPT-3](/writing/definite-guide-to-building-products-with-openai/)
 - [Hacker News Front Page Explorer(Featured on Product Hunt)](http://explorehackernews.xyz/): An Airtable database of Ranked Hacker News Front Page posts
 - [Maker Guide](https://makerguide.harishgarg.com): Ideas, tools, execution playbooks, and real-life examples for makers.
 - [Maker Playbook Newsletter](/makerplaybook/): Curated Playbooks to help launch digital products as a solo entrepreneur.
